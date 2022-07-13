@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "371787315862",
+    "project_id": "mbtitype-8fd0e",
+    "storage_bucket": "mbtitype-8fd0e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:371787315862:android:719e1f53880dcb718960b7",
+        "android_client_info": {
+          "package_name": "com.wowspa21.mbtitypever2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "371787315862-pp4sibqkp99m81s07u7nl7cgfvrbb9id.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCC47bwL7xteyIRff3e_sYHir0vAdTties"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "371787315862-pp4sibqkp99m81s07u7nl7cgfvrbb9id.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
